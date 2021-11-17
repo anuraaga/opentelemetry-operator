@@ -1,0 +1,4 @@
+Dockerfile
+bundle
+vendor
+Gemfile.lock
